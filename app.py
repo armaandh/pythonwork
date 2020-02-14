@@ -8,7 +8,7 @@ class person:
     @name.setter
     def name(self, value):
         self.__name=value
-
+# documentation added 
 p = person()
 p.name = "Steve jobs"
 print(p.name)
